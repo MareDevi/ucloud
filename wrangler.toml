@@ -5,7 +5,7 @@ compatibility_date = "2023-10-30"
 [[d1_databases]]
 binding = "DB"
 database_name = "ucloud"
-database_id = "4e1f3e06-9109-4b5e-96ba-db63a47cc4e3"
+database_id = "aa074fd0-e44b-453a-ace9-a912ef11c73e"
 
 [observability.logs]
 enabled = true
